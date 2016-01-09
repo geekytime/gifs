@@ -1,4 +1,2786 @@
----
----
-
-{{ site.data.static_files | jsonify }}
+[
+	{
+		"tags": [
+			"dance",
+			"celebrate",
+			"music",
+			"blues",
+			"brothers",
+			"keyboard"
+		],
+		"tagString": "dance celebrate music blues brothers keyboard",
+		"filename": "Blues-Brothers.gif",
+		"sentimentScore": 3
+	},
+	{
+		"tags": [
+			"rage",
+			"fail",
+			"anger",
+			"angry",
+			"bsod",
+			"blue",
+			"screen",
+			"computer",
+			"dead"
+		],
+		"tagString": "rage fail anger angry bsod blue screen computer dead",
+		"filename": "DataBSOD.gif",
+		"sentimentScore": -13
+	},
+	{
+		"tags": [
+			"sigh",
+			"whatever",
+			"disgusted",
+			"disapproval",
+			"disapprove"
+		],
+		"tagString": "sigh whatever disgusted disapproval disapprove",
+		"filename": "Dwight-Schrute-look-of-disapproval.gif",
+		"sentimentScore": -5
+	},
+	{
+		"tags": [
+			"mind",
+			"blown",
+			"brain",
+			"explosion"
+		],
+		"tagString": "mind blown brain explosion",
+		"filename": "Mind-Blown-Russell-Brand.gif",
+		"sentimentScore": 0
+	},
+	{
+		"tags": [
+			"dance",
+			"celebrate",
+			"touchdown",
+			"ballerina",
+			"cheer",
+			"nice",
+			"woot",
+			"yay",
+			"hooray"
+		],
+		"tagString": "dance celebrate touchdown ballerina cheer nice woot yay hooray",
+		"filename": "ace-ventura-dance.gif",
+		"sentimentScore": 8
+	},
+	{
+		"tags": [
+			"aha",
+			"oh",
+			"revelation",
+			"discovery",
+			"get",
+			"it",
+			"see",
+			"what",
+			"you",
+			"did",
+			"there",
+			"realization"
+		],
+		"tagString": "aha oh revelation discovery get it see what you did there realization",
+		"filename": "aha.gif",
+		"sentimentScore": 0
+	},
+	{
+		"tags": [
+			"creepy",
+			"scared",
+			"terrified",
+			"wat"
+		],
+		"tagString": "creepy scared terrified wat",
+		"filename": "ahhhhh.gif",
+		"sentimentScore": -5
+	},
+	{
+		"tags": [
+			"rage",
+			"anger",
+			"angry",
+			"revenge"
+		],
+		"tagString": "rage anger angry revenge",
+		"filename": "amy-pohler-rage.gif",
+		"sentimentScore": -10
+	},
+	{
+		"tags": [
+			"yes",
+			"yeah",
+			"woot",
+			"celebrate",
+			"high",
+			"five"
+		],
+		"tagString": "yes yeah woot celebrate high five",
+		"filename": "amy-seth-snl-high-five.gif",
+		"sentimentScore": 5
+	},
+	{
+		"tags": [
+			"bounce",
+			"car",
+			"stare",
+			"wat",
+			"boy",
+			"prom",
+			"ride",
+			"hero"
+		],
+		"tagString": "bounce car stare wat boy prom ride hero",
+		"filename": "animated-cinemagraph-gif-movie-NapoleonDynamite.gif",
+		"sentimentScore": 2
+	},
+	{
+		"tags": [
+			"psycho",
+			"creepy",
+			"eyes",
+			"stare",
+			"boy"
+		],
+		"tagString": "psycho creepy eyes stare boy",
+		"filename": "animated-cinemagraph-movie-screen-Psycho.gif",
+		"sentimentScore": 0
+	},
+	{
+		"tags": [
+			"eyes",
+			"stare",
+			"girl",
+			"blink",
+			"unimpressed",
+			"bored"
+		],
+		"tagString": "eyes stare girl blink unimpressed bored",
+		"filename": "animated-cinemagraphs.gif",
+		"sentimentScore": -4
+	},
+	{
+		"tags": [
+			"wat",
+			"brain",
+			"wall",
+			"art"
+		],
+		"tagString": "wat brain wall art",
+		"filename": "animated-street-art.gif",
+		"sentimentScore": 0
+	},
+	{
+		"tags": [
+			"apple",
+			"wink"
+		],
+		"tagString": "apple wink",
+		"filename": "apple-wink.gif",
+		"sentimentScore": 0
+	},
+	{
+		"tags": [
+			"stare",
+			"chew",
+			"phone",
+			"listen",
+			"army"
+		],
+		"tagString": "stare chew phone listen army",
+		"filename": "army-stare.gif",
+		"sentimentScore": 0
+	},
+	{
+		"tags": [
+			"whoah",
+			"surprise",
+			"shock",
+			"yell",
+			"shout",
+			"austin",
+			"powers",
+			"orange"
+		],
+		"tagString": "whoah surprise shock yell shout austin powers orange",
+		"filename": "austin-powers-omg.gif",
+		"sentimentScore": -2
+	},
+	{
+		"tags": [
+			"high",
+			"five",
+			"celebrate",
+			"whoops",
+			"strong"
+		],
+		"tagString": "high five celebrate whoops strong",
+		"filename": "avengers-high-five.gif",
+		"sentimentScore": 5
+	},
+	{
+		"tags": [
+			"dance",
+			"dancing",
+			"baby"
+		],
+		"tagString": "dance dancing baby",
+		"filename": "baby-dance-1.gif",
+		"sentimentScore": 0
+	},
+	{
+		"tags": [
+			"dance",
+			"dancing",
+			"baby"
+		],
+		"tagString": "dance dancing baby",
+		"filename": "baby-dance-2.gif",
+		"sentimentScore": 0
+	},
+	{
+		"tags": [
+			"run",
+			"scared",
+			"surprised",
+			"flee"
+		],
+		"tagString": "run scared surprised flee",
+		"filename": "badger-run-away.gif",
+		"sentimentScore": -2
+	},
+	{
+		"tags": [
+			"work",
+			"team",
+			"move",
+			"men",
+			"barrels"
+		],
+		"tagString": "work team move men barrels",
+		"filename": "barrels.gif",
+		"sentimentScore": 0
+	},
+	{
+		"tags": [
+			"bb",
+			"8",
+			"bb",
+			"8",
+			"roll",
+			"rolling",
+			"star",
+			"wars",
+			"bump"
+		],
+		"tagString": "bb 8 bb 8 roll rolling star wars bump",
+		"filename": "bb8.gif",
+		"sentimentScore": 0
+	},
+	{
+		"tags": [
+			"bear",
+			"dance",
+			"celebrate",
+			"woot",
+			"hooray",
+			"yes"
+		],
+		"tagString": "bear dance celebrate woot hooray yes",
+		"filename": "bboy-bear.gif",
+		"sentimentScore": 4
+	},
+	{
+		"tags": [
+			"dinosaur",
+			"fun",
+			"play",
+			"run",
+			"rock"
+		],
+		"tagString": "dinosaur fun play run rock",
+		"filename": "best-dinosaur-gif-ever-art.gif",
+		"sentimentScore": 4
+	},
+	{
+		"tags": [
+			"birthday",
+			"candles",
+			"celebrate"
+		],
+		"tagString": "birthday candles celebrate",
+		"filename": "birthday-candles.gif",
+		"sentimentScore": 3
+	},
+	{
+		"tags": [
+			"bored",
+			"sand",
+			"pour"
+		],
+		"tagString": "bored sand pour",
+		"filename": "bored-sand.gif",
+		"sentimentScore": -2
+	},
+	{
+		"tags": [
+			"bugs",
+			"bunny",
+			"sad",
+			"cry",
+			"bound",
+			"tied",
+			"trapped"
+		],
+		"tagString": "bugs bunny sad cry bound tied trapped",
+		"filename": "bugs-crying.gif",
+		"sentimentScore": -5
+	},
+	{
+		"tags": [
+			"buh",
+			"bye",
+			"goodbye",
+			"leaving",
+			"cat",
+			"couch",
+			"crawl",
+			"later"
+		],
+		"tagString": "buh bye goodbye leaving cat couch crawl later",
+		"filename": "bye-cat-couch.gif",
+		"sentimentScore": 0
+	},
+	{
+		"tags": [
+			"buh",
+			"bye",
+			"goodbye",
+			"cat",
+			"kitten",
+			"wave",
+			"later"
+		],
+		"tagString": "buh bye goodbye cat kitten wave later",
+		"filename": "bye-cat.gif",
+		"sentimentScore": 0
+	},
+	{
+		"tags": [
+			"buh",
+			"bye",
+			"goodbye",
+			"elephant",
+			"wave",
+			"later"
+		],
+		"tagString": "buh bye goodbye elephant wave later",
+		"filename": "bye-elephant.gif",
+		"sentimentScore": 0
+	},
+	{
+		"tags": [
+			"bye",
+			"goodbye",
+			"kid",
+			"sad",
+			"wave",
+			"later"
+		],
+		"tagString": "bye goodbye kid sad wave later",
+		"filename": "bye-kid-sad.gif",
+		"sentimentScore": -2
+	},
+	{
+		"tags": [
+			"bye",
+			"goodbye",
+			"leave",
+			"roll",
+			"ralph",
+			"simpsons"
+		],
+		"tagString": "bye goodbye leave roll ralph simpsons",
+		"filename": "bye-ralph.gif",
+		"sentimentScore": -1
+	},
+	{
+		"tags": [
+			"celebrate",
+			"dance",
+			"hooray",
+			"woot"
+		],
+		"tagString": "celebrate dance hooray woot",
+		"filename": "cabbage-patch.gif",
+		"sentimentScore": 3
+	},
+	{
+		"tags": [
+			"bike",
+			"canal",
+			"calm",
+			"peaceful",
+			"serene",
+			"quiet",
+			"alone"
+		],
+		"tagString": "bike canal calm peaceful serene quiet alone",
+		"filename": "calm-canal.gif",
+		"sentimentScore": 4
+	},
+	{
+		"tags": [
+			"trees",
+			"waterfall",
+			"calm",
+			"peaceful",
+			"serene",
+			"quiet",
+			"alone",
+			"beautiful"
+		],
+		"tagString": "trees waterfall calm peaceful serene quiet alone beautiful",
+		"filename": "calm-waterfall.gif",
+		"sentimentScore": 7
+	},
+	{
+		"tags": [
+			"calvin",
+			"hobbes",
+			"tiger",
+			"boy",
+			"dance",
+			"celebrate",
+			"hooray",
+			"woot"
+		],
+		"tagString": "calvin hobbes tiger boy dance celebrate hooray woot",
+		"filename": "calvin-hobbes-dance.gif",
+		"sentimentScore": 3
+	},
+	{
+		"tags": [
+			"dance",
+			"surprise",
+			"shock",
+			"scary",
+			"creepy"
+		],
+		"tagString": "dance surprise shock scary creepy",
+		"filename": "camouflage-bboy.gif",
+		"sentimentScore": -4
+	},
+	{
+		"tags": [
+			"canal",
+			"ship",
+			"ship",
+			"it",
+			"ships",
+			"cargo",
+			"move"
+		],
+		"tagString": "canal ship ship it ships cargo move",
+		"filename": "canal-ships.gif",
+		"sentimentScore": 0
+	},
+	{
+		"tags": [
+			"carl",
+			"sagan",
+			"you",
+			"re",
+			"awesome",
+			"congrats",
+			"thanks",
+			"thank",
+			"you",
+			"woot",
+			"nice",
+			"job",
+			"work",
+			"hero"
+		],
+		"tagString": "carl sagan you re awesome congrats thanks thank you woot nice job work hero",
+		"filename": "carl-sagan-youre-awesome.gif",
+		"sentimentScore": 15
+	},
+	{
+		"tags": [
+			"dance",
+			"celebrate",
+			"wat",
+			"woot",
+			"hooray"
+		],
+		"tagString": "dance celebrate wat woot hooray",
+		"filename": "carlton-drake.gif",
+		"sentimentScore": 3
+	},
+	{
+		"tags": [
+			"hug",
+			"happy",
+			"thanks",
+			"thank",
+			"you",
+			"awesome",
+			"missed",
+			"love",
+			"adore",
+			"glad"
+		],
+		"tagString": "hug happy thanks thank you awesome missed love adore glad",
+		"filename": "cartoon-kid-hug.gif",
+		"sentimentScore": 20
+	},
+	{
+		"tags": [
+			"cat",
+			"explosion",
+			"boom",
+			"bomb"
+		],
+		"tagString": "cat explosion boom bomb",
+		"filename": "cat-explosion.gif",
+		"sentimentScore": -1
+	},
+	{
+		"tags": [
+			"cat",
+			"fail",
+			"fall",
+			"jump",
+			"whoops",
+			"nope",
+			"missed"
+		],
+		"tagString": "cat fail fall jump whoops nope missed",
+		"filename": "cat-fail.gif",
+		"sentimentScore": -4
+	},
+	{
+		"tags": [
+			"cat",
+			"high",
+			"five",
+			"woot",
+			"celebrate",
+			"nice"
+		],
+		"tagString": "cat high five woot celebrate nice",
+		"filename": "cat-high-five.gif",
+		"sentimentScore": 6
+	},
+	{
+		"tags": [
+			"cat",
+			"fail",
+			"mirror",
+			"whoops",
+			"fall",
+			"bonk",
+			"oof"
+		],
+		"tagString": "cat fail mirror whoops fall bonk oof",
+		"filename": "cat-mirror.gif",
+		"sentimentScore": -2
+	},
+	{
+		"tags": [
+			"cat",
+			"nails",
+			"sharpen",
+			"revenge",
+			"plot",
+			"plan",
+			"threat",
+			"threaten"
+		],
+		"tagString": "cat nails sharpen revenge plot plan threat threaten",
+		"filename": "cat-sharpens-nails.gif",
+		"sentimentScore": -6
+	},
+	{
+		"tags": [
+			"boat",
+			"sea",
+			"ocean",
+			"lonely",
+			"fog",
+			"foggy",
+			"remote"
+		],
+		"tagString": "boat sea ocean lonely fog foggy remote",
+		"filename": "children-of-men-cinemagraph-art.gif",
+		"sentimentScore": -2
+	},
+	{
+		"tags": [
+			"anger",
+			"angry",
+			"rage",
+			"bus",
+			"driver"
+		],
+		"tagString": "anger angry rage bus driver",
+		"filename": "chris-farley.gif",
+		"sentimentScore": -8
+	},
+	{
+		"tags": [
+			"anger",
+			"angry",
+			"rage",
+			"punch",
+			"chuck",
+			"norris"
+		],
+		"tagString": "anger angry rage punch chuck norris",
+		"filename": "chuck-norris-punch.gif",
+		"sentimentScore": -8
+	},
+	{
+		"tags": [
+			"chuck",
+			"norris",
+			"thumbs",
+			"up",
+			"good",
+			"job",
+			"nice",
+			"great",
+			"awesome",
+			"you",
+			"re",
+			"thanks"
+		],
+		"tagString": "chuck norris thumbs up good job nice great awesome you re thanks",
+		"filename": "chuck-norris.gif",
+		"sentimentScore": 15
+	},
+	{
+		"tags": [
+			"dinosaur",
+			"eyes",
+			"stare",
+			"blink",
+			"unimpressed",
+			"crickets",
+			"bored"
+		],
+		"tagString": "dinosaur eyes stare blink unimpressed crickets bored",
+		"filename": "cinemagraph-compsognathus-dinosaur.gif",
+		"sentimentScore": -4
+	},
+	{
+		"tags": [
+			"applaud",
+			"applause",
+			"clap",
+			"intense",
+			"stare"
+		],
+		"tagString": "applaud applause clap intense stare",
+		"filename": "clap.gif",
+		"sentimentScore": 5
+	},
+	{
+		"tags": [
+			"coffee",
+			"stir",
+			"stare",
+			"intense",
+			"watch"
+		],
+		"tagString": "coffee stir stare intense watch",
+		"filename": "coffee-stir-stare.gif",
+		"sentimentScore": 1
+	},
+	{
+		"tags": [
+			"hurry",
+			"quickly",
+			"rescue",
+			"fast",
+			"come",
+			"here"
+		],
+		"tagString": "hurry quickly rescue fast come here",
+		"filename": "come-quickly-comon.gif",
+		"sentimentScore": 2
+	},
+	{
+		"tags": [
+			"high",
+			"five",
+			"celebrate",
+			"woot",
+			"friends",
+			"friendship",
+			"hooray",
+			"yay"
+		],
+		"tagString": "high five celebrate woot friends friendship hooray yay",
+		"filename": "community-high-five.gif",
+		"sentimentScore": 3
+	},
+	{
+		"tags": [
+			"high",
+			"five",
+			"celebrate",
+			"woot",
+			"friends",
+			"team",
+			"yay",
+			"hooray"
+		],
+		"tagString": "high five celebrate woot friends team yay hooray",
+		"filename": "conan-andy-high-five.gif",
+		"sentimentScore": 3
+	},
+	{
+		"tags": [
+			"rage",
+			"quit",
+			"run",
+			"done",
+			"out",
+			"outta",
+			"here",
+			"later"
+		],
+		"tagString": "rage quit run done out outta here later",
+		"filename": "conan-ragequit.gif",
+		"sentimentScore": -2
+	},
+	{
+		"tags": [
+			"clap",
+			"dance",
+			"happy",
+			"woot",
+			"celebrate",
+			"yay",
+			"hooray"
+		],
+		"tagString": "clap dance happy woot celebrate yay hooray",
+		"filename": "dance.gif",
+		"sentimentScore": 6
+	},
+	{
+		"tags": [
+			"dance",
+			"celebrate",
+			"happy",
+			"yay",
+			"hooray",
+			"woot",
+			"dude"
+		],
+		"tagString": "dance celebrate happy yay hooray woot dude",
+		"filename": "dancin.gif",
+		"sentimentScore": 6
+	},
+	{
+		"tags": [
+			"dance",
+			"celebrate",
+			"happy",
+			"yay",
+			"hooray",
+			"woot",
+			"dude"
+		],
+		"tagString": "dance celebrate happy yay hooray woot dude",
+		"filename": "dancing.gif",
+		"sentimentScore": 6
+	},
+	{
+		"tags": [
+			"dark",
+			"storm",
+			"scary",
+			"lightning",
+			"birds",
+			"danger",
+			"dangerous"
+		],
+		"tagString": "dark storm scary lightning birds danger dangerous",
+		"filename": "dark-storm.gif",
+		"sentimentScore": -4
+	},
+	{
+		"tags": [
+			"deal",
+			"with",
+			"it",
+			"sunglasses",
+			"whatever"
+		],
+		"tagString": "deal with it sunglasses whatever",
+		"filename": "deal-with-it-paul-rudd.gif",
+		"sentimentScore": 0
+	},
+	{
+		"tags": [
+			"deal",
+			"with",
+			"it",
+			"sunglasses",
+			"whatever",
+			"slide"
+		],
+		"tagString": "deal with it sunglasses whatever slide",
+		"filename": "deal-with-it.gif",
+		"sentimentScore": 0
+	},
+	{
+		"tags": [
+			"no",
+			"nope",
+			"denied",
+			"rejected",
+			"blocked",
+			"cereal",
+			"basketball",
+			"shopping"
+		],
+		"tagString": "no nope denied rejected blocked cereal basketball shopping",
+		"filename": "dikembe-mutumbo-nope.gif",
+		"sentimentScore": -5
+	},
+	{
+		"tags": [
+			"cat",
+			"wat",
+			"weird",
+			"scary",
+			"intense"
+		],
+		"tagString": "cat wat weird scary intense",
+		"filename": "disco-kitty-animated-gif-arts.gif",
+		"sentimentScore": -3
+	},
+	{
+		"tags": [
+			"sigh",
+			"whatever",
+			"disgusted",
+			"disapproval",
+			"disapprove"
+		],
+		"tagString": "sigh whatever disgusted disapproval disapprove",
+		"filename": "disgust-jony-depp.gif",
+		"sentimentScore": -5
+	},
+	{
+		"tags": [
+			"whatever",
+			"disgust",
+			"disgusted"
+		],
+		"tagString": "whatever disgust disgusted",
+		"filename": "disgust.gif",
+		"sentimentScore": -6
+	},
+	{
+		"tags": [
+			"doge",
+			"loop",
+			"looping",
+			"infinity",
+			"forever"
+		],
+		"tagString": "doge loop looping infinity forever",
+		"filename": "doge-loop.gif",
+		"sentimentScore": 0
+	},
+	{
+		"tags": [
+			"doge",
+			"eyes",
+			"sad",
+			"crying"
+		],
+		"tagString": "doge eyes sad crying",
+		"filename": "doge-sad.gif",
+		"sentimentScore": -4
+	},
+	{
+		"tags": [
+			"fail",
+			"break",
+			"broken",
+			"crash",
+			"abuse",
+			"brick",
+			"dryer"
+		],
+		"tagString": "fail break broken crash abuse brick dryer",
+		"filename": "dryer-abuse.gif",
+		"sentimentScore": -8
+	},
+	{
+		"tags": [
+			"laugh",
+			"funny",
+			"hilarious"
+		],
+		"tagString": "laugh funny hilarious",
+		"filename": "dumb-dumber-laugh-2.gif",
+		"sentimentScore": 7
+	},
+	{
+		"tags": [
+			"laugh",
+			"funny",
+			"hilarious",
+			"friends"
+		],
+		"tagString": "laugh funny hilarious friends",
+		"filename": "dumb-dumber-laugh.gif",
+		"sentimentScore": 7
+	},
+	{
+		"tags": [
+			"bored",
+			"pool",
+			"balls"
+		],
+		"tagString": "bored pool balls",
+		"filename": "endless-pool-stanley-kubrick-cinemagraph-animated-gifs.gif",
+		"sentimentScore": -2
+	},
+	{
+		"tags": [
+			"enough",
+			"internet",
+			"disgust",
+			"disapprove",
+			"sigh",
+			"done"
+		],
+		"tagString": "enough internet disgust disapprove sigh done",
+		"filename": "enough-internet.gif",
+		"sentimentScore": -5
+	},
+	{
+		"tags": [
+			"angry",
+			"anger",
+			"rage",
+			"enraged",
+			"desk",
+			"slam"
+		],
+		"tagString": "angry anger rage enraged desk slam",
+		"filename": "enraged-desk-slam.gif",
+		"sentimentScore": -12
+	},
+	{
+		"tags": [
+			"anger",
+			"angry",
+			"rage",
+			"disbelief",
+			"stare",
+			"eyes"
+		],
+		"tagString": "anger angry rage disbelief stare eyes",
+		"filename": "enraged-stare.gif",
+		"sentimentScore": -8
+	},
+	{
+		"tags": [
+			"epic",
+			"clouds",
+			"quiet",
+			"serene",
+			"beautiful"
+		],
+		"tagString": "epic clouds quiet serene beautiful",
+		"filename": "epic-clouds.gif",
+		"sentimentScore": 5
+	},
+	{
+		"tags": [
+			"epic",
+			"storm",
+			"danger",
+			"dangerous",
+			"tornado",
+			"wind"
+		],
+		"tagString": "epic storm danger dangerous tornado wind",
+		"filename": "epic-tornado.gif",
+		"sentimentScore": -2
+	},
+	{
+		"tags": [
+			"epic",
+			"waterfall",
+			"alone"
+		],
+		"tagString": "epic waterfall alone",
+		"filename": "epic-waterfall.gif",
+		"sentimentScore": -2
+	},
+	{
+		"tags": [
+			"css"
+		],
+		"tagString": "css",
+		"filename": "family-guy-css.gif",
+		"sentimentScore": 0
+	},
+	{
+		"tags": [
+			"ferret",
+			"fall",
+			"fail",
+			"leap",
+			"jump",
+			"whoops",
+			"mistake"
+		],
+		"tagString": "ferret fall fail leap jump whoops mistake",
+		"filename": "ferret-fail.gif",
+		"sentimentScore": -4
+	},
+	{
+		"tags": [
+			"cry",
+			"sad",
+			"girl",
+			"eyes",
+			"stare",
+			"face"
+		],
+		"tagString": "cry sad girl eyes stare face",
+		"filename": "fifth-element-cinemagraph-gif.gif",
+		"sentimentScore": -3
+	},
+	{
+		"tags": [
+			"dance",
+			"wat",
+			"huh"
+		],
+		"tagString": "dance wat huh",
+		"filename": "foot-dance.gif",
+		"sentimentScore": 0
+	},
+	{
+		"tags": [
+			"dance",
+			"wat",
+			"huh"
+		],
+		"tagString": "dance wat huh",
+		"filename": "fresh-prince-dance.gif",
+		"sentimentScore": 0
+	},
+	{
+		"tags": [
+			"fail",
+			"whoops",
+			"drop",
+			"dropped",
+			"fumble"
+		],
+		"tagString": "fail whoops drop dropped fumble",
+		"filename": "fumble.gif",
+		"sentimentScore": -3
+	},
+	{
+		"tags": [
+			"smile",
+			"happy",
+			"enjoy"
+		],
+		"tagString": "smile happy enjoy",
+		"filename": "gandalf-smile.gif",
+		"sentimentScore": 7
+	},
+	{
+		"tags": [
+			"popcorn",
+			"watch",
+			"stare",
+			"entertained",
+			"entertaining",
+			"watching"
+		],
+		"tagString": "popcorn watch stare entertained entertaining watching",
+		"filename": "gazelle-popcorn.gif",
+		"sentimentScore": 2
+	},
+	{
+		"tags": [
+			"dance",
+			"woot",
+			"celebrate",
+			"happy"
+		],
+		"tagString": "dance woot celebrate happy",
+		"filename": "girl-get-down.gif",
+		"sentimentScore": 6
+	},
+	{
+		"tags": [
+			"fail",
+			"whoops",
+			"fall",
+			"girl",
+			"swing",
+			"ouch"
+		],
+		"tagString": "fail whoops fall girl swing ouch",
+		"filename": "girls-swing.gif",
+		"sentimentScore": -2
+	},
+	{
+		"tags": [
+			"good",
+			"luck",
+			"wave",
+			"bye",
+			"lando",
+			"star",
+			"wars"
+		],
+		"tagString": "good luck wave bye lando star wars",
+		"filename": "good-luck-lando.gif",
+		"sentimentScore": 6
+	},
+	{
+		"tags": [
+			"good",
+			"luck",
+			"cheer",
+			"support",
+			"patrick"
+		],
+		"tagString": "good luck cheer support patrick",
+		"filename": "good-luck-patrick.gif",
+		"sentimentScore": 10
+	},
+	{
+		"tags": [
+			"good",
+			"luck",
+			"support",
+			"snoopy"
+		],
+		"tagString": "good luck support snoopy",
+		"filename": "good-luck-snoopy.gif",
+		"sentimentScore": 8
+	},
+	{
+		"tags": [
+			"cry",
+			"sad",
+			"waterfall"
+		],
+		"tagString": "cry sad waterfall",
+		"filename": "gushing-tears.gif",
+		"sentimentScore": -3
+	},
+	{
+		"tags": [
+			"hungry",
+			"food",
+			"wat"
+		],
+		"tagString": "hungry food wat",
+		"filename": "hambergler.gif",
+		"sentimentScore": 0
+	},
+	{
+		"tags": [
+			"dance",
+			"hammer",
+			"slide"
+		],
+		"tagString": "dance hammer slide",
+		"filename": "hammer-time.gif",
+		"sentimentScore": 0
+	},
+	{
+		"tags": [
+			"happy",
+			"dance",
+			"joy",
+			"celebrate",
+			"hooray",
+			"yay",
+			"woot"
+		],
+		"tagString": "happy dance joy celebrate hooray yay woot",
+		"filename": "happy-dance-forever.gif",
+		"sentimentScore": 9
+	},
+	{
+		"tags": [
+			"slide",
+			"stairs",
+			"epic",
+			"nice",
+			"excellent",
+			"skill"
+		],
+		"tagString": "slide stairs epic nice excellent skill",
+		"filename": "haters-gone-hate.gif",
+		"sentimentScore": 6
+	},
+	{
+		"tags": [
+			"tied",
+			"stuck",
+			"bound",
+			"bounds",
+			"escape",
+			"trapped",
+			"ropes",
+			"help"
+		],
+		"tagString": "tied stuck bound bounds escape trapped ropes help",
+		"filename": "he-man-help.gif",
+		"sentimentScore": -3
+	},
+	{
+		"tags": [
+			"nod",
+			"yes",
+			"approval",
+			"approves",
+			"proud"
+		],
+		"tagString": "nod yes approval approves proud",
+		"filename": "head-nod.gif",
+		"sentimentScore": 7
+	},
+	{
+		"tags": [
+			"hi",
+			"hello",
+			"wave",
+			"bird"
+		],
+		"tagString": "hi hello wave bird",
+		"filename": "hello-bird.gif",
+		"sentimentScore": 0
+	},
+	{
+		"tags": [
+			"hi",
+			"hello",
+			"wave",
+			"elmo"
+		],
+		"tagString": "hi hello wave elmo",
+		"filename": "hello-elmo.gif",
+		"sentimentScore": 0
+	},
+	{
+		"tags": [
+			"hi",
+			"hello",
+			"wave",
+			"phineas",
+			"ferb"
+		],
+		"tagString": "hi hello wave phineas ferb",
+		"filename": "hello-phineas.gif",
+		"sentimentScore": 0
+	},
+	{
+		"tags": [
+			"help",
+			"stuck",
+			"trapped",
+			"dog",
+			"halp"
+		],
+		"tagString": "help stuck trapped dog halp",
+		"filename": "help.gif",
+		"sentimentScore": -2
+	},
+	{
+		"tags": [
+			"strength",
+			"strong",
+			"power",
+			"epic",
+			"sword"
+		],
+		"tagString": "strength strong power epic sword",
+		"filename": "heman.gif",
+		"sentimentScore": 4
+	},
+	{
+		"tags": [
+			"high",
+			"five",
+			"nailed",
+			"light"
+		],
+		"tagString": "high five nailed light",
+		"filename": "high-five-knailed-it.gif",
+		"sentimentScore": 0
+	},
+	{
+		"tags": [
+			"hooray",
+			"yay",
+			"woot",
+			"happy"
+		],
+		"tagString": "hooray yay woot happy",
+		"filename": "hip-hop-hooray.gif",
+		"sentimentScore": 3
+	},
+	{
+		"tags": [
+			"hurry",
+			"late",
+			"rush",
+			"run"
+		],
+		"tagString": "hurry late rush run",
+		"filename": "homer-hurry.gif",
+		"sentimentScore": 0
+	},
+	{
+		"tags": [
+			"whatever",
+			"hide",
+			"disapprove",
+			"awkward",
+			"leave",
+			"go"
+		],
+		"tagString": "whatever hide disapprove awkward leave go",
+		"filename": "homer.gif",
+		"sentimentScore": -4
+	},
+	{
+		"tags": [
+			"started",
+			"scared",
+			"surprised",
+			"no",
+			"noo",
+			"nooo"
+		],
+		"tagString": "started scared surprised no noo nooo",
+		"filename": "horrified-hippie.gif",
+		"sentimentScore": -3
+	},
+	{
+		"tags": [
+			"wat",
+			"awkward"
+		],
+		"tagString": "wat awkward",
+		"filename": "hoth-puppy.gif",
+		"sentimentScore": -2
+	},
+	{
+		"tags": [
+			"wat",
+			"hover",
+			"fly",
+			"tricky"
+		],
+		"tagString": "wat hover fly tricky",
+		"filename": "hovering-arms.gif",
+		"sentimentScore": 0
+	},
+	{
+		"tags": [
+			"epic",
+			"fall",
+			"nailed",
+			"it"
+		],
+		"tagString": "epic fall nailed it",
+		"filename": "huge-dive.gif",
+		"sentimentScore": 0
+	},
+	{
+		"tags": [
+			"gotcha",
+			"caught",
+			"understand",
+			"aha",
+			"I",
+			"get",
+			"it",
+			"see",
+			"what",
+			"you",
+			"did",
+			"there",
+			"point"
+		],
+		"tagString": "gotcha caught understand aha I get it see what you did there point",
+		"filename": "i-see-what-you-did-there.gif",
+		"sentimentScore": 0
+	},
+	{
+		"tags": [
+			"wat",
+			"gross",
+			"ice",
+			"cream"
+		],
+		"tagString": "wat gross ice cream",
+		"filename": "icecreamkid.gif",
+		"sentimentScore": -2
+	},
+	{
+		"tags": [
+			"nod",
+			"approve",
+			"approves",
+			"approval",
+			"impressed",
+			"impressive"
+		],
+		"tagString": "nod approve approves approval impressed impressive",
+		"filename": "impressive.gif",
+		"sentimentScore": 10
+	},
+	{
+		"tags": [
+			"careful",
+			"caution",
+			"dangerous",
+			"care",
+			"tricky"
+		],
+		"tagString": "careful caution dangerous care tricky",
+		"filename": "indiana-jones-sand-bag.gif",
+		"sentimentScore": 4
+	},
+	{
+		"tags": [
+			"popcorn",
+			"stare",
+			"eyes",
+			"entertaining",
+			"entertained",
+			"watch",
+			"amused"
+		],
+		"tagString": "popcorn stare eyes entertaining entertained watch amused",
+		"filename": "it-crowd-popcorn.gif",
+		"sentimentScore": 5
+	},
+	{
+		"tags": [
+			"thumbs",
+			"up",
+			"approve",
+			"approval",
+			"approved",
+			"1"
+		],
+		"tagString": "thumbs up approve approval approved 1",
+		"filename": "jakie-chan-thumbsup.gif",
+		"sentimentScore": 4
+	},
+	{
+		"tags": [
+			"whatever",
+			"dismissive",
+			"dismissal"
+		],
+		"tagString": "whatever dismissive dismissal",
+		"filename": "james-franco-hands-up.gif",
+		"sentimentScore": 0
+	},
+	{
+		"tags": [
+			"stare",
+			"scary",
+			"scared",
+			"terrified",
+			"horrified",
+			"paralyzed"
+		],
+		"tagString": "stare scary scared terrified horrified paralyzed",
+		"filename": "jello-jiggle.gif",
+		"sentimentScore": -10
+	},
+	{
+		"tags": [
+			"gag",
+			"gross",
+			"ew",
+			"no",
+			"nope"
+		],
+		"tagString": "gag gross ew no nope",
+		"filename": "jim-carrey-gag.gif",
+		"sentimentScore": -5
+	},
+	{
+		"tags": [
+			"confused",
+			"wat",
+			"feel",
+			"feelings",
+			"mixed",
+			"emotions",
+			"feels",
+			"emotional"
+		],
+		"tagString": "confused wat feel feelings mixed emotions feels emotional",
+		"filename": "jim-cry-happy.gif",
+		"sentimentScore": -2
+	},
+	{
+		"tags": [
+			"clap",
+			"golf",
+			"sarcastic",
+			"whatever"
+		],
+		"tagString": "clap golf sarcastic whatever",
+		"filename": "joker-clap-animated-art.gif",
+		"sentimentScore": -2
+	},
+	{
+		"tags": [
+			"disgust",
+			"computer",
+			"disgusted",
+			"disapproval"
+		],
+		"tagString": "disgust computer disgusted disapproval",
+		"filename": "judge-judy-computer-disgust.gif",
+		"sentimentScore": -6
+	},
+	{
+		"tags": [
+			"hurry",
+			"late",
+			"slow",
+			"wait"
+		],
+		"tagString": "hurry late slow wait",
+		"filename": "judge-judy-hurry.gif",
+		"sentimentScore": 0
+	},
+	{
+		"tags": [
+			"quit",
+			"whatever",
+			"quit",
+			"run",
+			"done",
+			"out",
+			"outta",
+			"here",
+			"jump",
+			"later"
+		],
+		"tagString": "quit whatever quit run done out outta here jump later",
+		"filename": "jumps-out-window2.gif",
+		"sentimentScore": 0
+	},
+	{
+		"tags": [
+			"fail",
+			"ouch",
+			"oof",
+			"wat"
+		],
+		"tagString": "fail ouch oof wat",
+		"filename": "kayak-diving.gif",
+		"sentimentScore": -2
+	},
+	{
+		"tags": [
+			"whatever",
+			"loser",
+			"threat",
+			"threaten",
+			"revenge"
+		],
+		"tagString": "whatever loser threat threaten revenge",
+		"filename": "kelly-kapour-w.gif",
+		"sentimentScore": -9
+	},
+	{
+		"tags": [
+			"yes",
+			"yeah",
+			"fist",
+			"pump",
+			"hooray",
+			"yay",
+			"woot",
+			"celebrate"
+		],
+		"tagString": "yes yeah fist pump hooray yay woot celebrate",
+		"filename": "kip_yes.gif",
+		"sentimentScore": 5
+	},
+	{
+		"tags": [
+			"star",
+			"wars",
+			"kylo",
+			"ren",
+			"lightsaber",
+			"snow",
+			"forest",
+			"woods"
+		],
+		"tagString": "star wars kylo ren lightsaber snow forest woods",
+		"filename": "kylo-ren.gif",
+		"sentimentScore": 0
+	},
+	{
+		"tags": [
+			"laughing",
+			"conan",
+			"laugh",
+			"lol",
+			"funny"
+		],
+		"tagString": "laughing conan laugh lol funny",
+		"filename": "laughing-conan.gif",
+		"sentimentScore": 9
+	},
+	{
+		"tags": [
+			"confused",
+			"wat",
+			"mixed",
+			"emotions",
+			"feelings",
+			"feels",
+			"emotional"
+		],
+		"tagString": "confused wat mixed emotions feelings feels emotional",
+		"filename": "laughing-crying.gif",
+		"sentimentScore": -2
+	},
+	{
+		"tags": [
+			"adventure",
+			"time",
+			"laughing",
+			"jake",
+			"lol"
+		],
+		"tagString": "adventure time laughing jake lol",
+		"filename": "laughing-jake.gif",
+		"sentimentScore": 6
+	},
+	{
+		"tags": [
+			"toast",
+			"fireworks",
+			"cheers",
+			"celebrate",
+			"celebration"
+		],
+		"tagString": "toast fireworks cheers celebrate celebration",
+		"filename": "leo-toast.gif",
+		"sentimentScore": 5
+	},
+	{
+		"tags": [
+			"lights",
+			"party",
+			"summer"
+		],
+		"tagString": "lights party summer",
+		"filename": "light-cinemagraphs.gif",
+		"sentimentScore": 0
+	},
+	{
+		"tags": [
+			"eyes",
+			"stare",
+			"bored",
+			"boring",
+			"hypnotize",
+			"tricky"
+		],
+		"tagString": "eyes stare bored boring hypnotize tricky",
+		"filename": "lilia_cinemagraph_by_kpoldnk-.gif",
+		"sentimentScore": -5
+	},
+	{
+		"tags": [
+			"omg",
+			"lol",
+			"cat",
+			"lolcat"
+		],
+		"tagString": "omg lol cat lolcat",
+		"filename": "lolcat.gif",
+		"sentimentScore": 3
+	},
+	{
+		"tags": [
+			"wat",
+			"lol"
+		],
+		"tagString": "wat lol",
+		"filename": "lolwat.gif",
+		"sentimentScore": 3
+	},
+	{
+		"tags": [
+			"wat",
+			"lol"
+		],
+		"tagString": "wat lol",
+		"filename": "lolwut-rappers.gif",
+		"sentimentScore": 3
+	},
+	{
+		"tags": [
+			"bored",
+			"ball",
+			"throwing"
+		],
+		"tagString": "bored ball throwing",
+		"filename": "loop-throwing-shinning-cinemagraph-art.gif",
+		"sentimentScore": -2
+	},
+	{
+		"tags": [
+			"magic",
+			"creepy",
+			"wat"
+		],
+		"tagString": "magic creepy wat",
+		"filename": "magic.gif",
+		"sentimentScore": 0
+	},
+	{
+		"tags": [
+			"eyes",
+			"peek",
+			"hi",
+			"hello"
+		],
+		"tagString": "eyes peek hi hello",
+		"filename": "marty-feldman-eyes.gif",
+		"sentimentScore": 0
+	},
+	{
+		"tags": [
+			"fail",
+			"whoops",
+			"fall",
+			"oof",
+			"ouch"
+		],
+		"tagString": "fail whoops fall oof ouch",
+		"filename": "mascot-spill.gif",
+		"sentimentScore": -2
+	},
+	{
+		"tags": [
+			"confused",
+			"bewildered",
+			"befuddled"
+		],
+		"tagString": "confused bewildered befuddled",
+		"filename": "max-smart-confused.gif",
+		"sentimentScore": -2
+	},
+	{
+		"tags": [
+			"mic",
+			"drop",
+			"booya"
+		],
+		"tagString": "mic drop booya",
+		"filename": "mic-drop-2.gif",
+		"sentimentScore": -1
+	},
+	{
+		"tags": [
+			"no",
+			"angry",
+			"enraged",
+			"disagree"
+		],
+		"tagString": "no angry enraged disagree",
+		"filename": "michael-scott-no.gif",
+		"sentimentScore": -6
+	},
+	{
+		"tags": [
+			"mind",
+			"blown",
+			"brain",
+			"explosion"
+		],
+		"tagString": "mind blown brain explosion",
+		"filename": "mind-blown-2.gif",
+		"sentimentScore": 0
+	},
+	{
+		"tags": [
+			"mind",
+			"blown",
+			"brain",
+			"explosion"
+		],
+		"tagString": "mind blown brain explosion",
+		"filename": "mind-blown.gif",
+		"sentimentScore": 0
+	},
+	{
+		"tags": [
+			"happy",
+			"dance"
+		],
+		"tagString": "happy dance",
+		"filename": "molly-breakfast-club.gif",
+		"sentimentScore": 3
+	},
+	{
+		"tags": [
+			"epic",
+			"nailed",
+			"it",
+			"bowling",
+			"strike"
+		],
+		"tagString": "epic nailed it bowling strike",
+		"filename": "nailed-it-bowling-pins.gif",
+		"sentimentScore": -1
+	},
+	{
+		"tags": [
+			"nailed",
+			"it",
+			"crazy",
+			"dangerous",
+			"jump"
+		],
+		"tagString": "nailed it crazy dangerous jump",
+		"filename": "nailed-it-car-jump.gif",
+		"sentimentScore": -2
+	},
+	{
+		"tags": [
+			"nailed",
+			"it",
+			"drink",
+			"glasses",
+			"epic"
+		],
+		"tagString": "nailed it drink glasses epic",
+		"filename": "nailed-it-glasses.gif",
+		"sentimentScore": 0
+	},
+	{
+		"tags": [
+			"guy",
+			"library",
+			"nervous"
+		],
+		"tagString": "guy library nervous",
+		"filename": "nervous-guy.gif",
+		"sentimentScore": -2
+	},
+	{
+		"tags": [
+			"no",
+			"nope",
+			"head",
+			"shake"
+		],
+		"tagString": "no nope head shake",
+		"filename": "no-huh-uh.gif",
+		"sentimentScore": -1
+	},
+	{
+		"tags": [
+			"no",
+			"way",
+			"nope",
+			"finger",
+			"waggle"
+		],
+		"tagString": "no way nope finger waggle",
+		"filename": "no-no.gif",
+		"sentimentScore": -1
+	},
+	{
+		"tags": [
+			"no",
+			"way",
+			"whatever",
+			"disagree",
+			"disappointed",
+			"disapprove"
+		],
+		"tagString": "no way whatever disagree disappointed disapprove",
+		"filename": "no_way_Neil_deGrasse_Tyson.gif",
+		"sentimentScore": -3
+	},
+	{
+		"tags": [
+			"nod",
+			"yes",
+			"creepy",
+			"intense",
+			"stare",
+			"eyes",
+			"agree",
+			"agreed"
+		],
+		"tagString": "nod yes creepy intense stare eyes agree agreed",
+		"filename": "nod-shining.gif",
+		"sentimentScore": 4
+	},
+	{
+		"tags": [
+			"no",
+			"noo",
+			"nooo",
+			"noooo",
+			"nooooo",
+			"scared",
+			"disappointed"
+		],
+		"tagString": "no noo nooo noooo nooooo scared disappointed",
+		"filename": "noooo.gif",
+		"sentimentScore": -5
+	},
+	{
+		"tags": [
+			"no",
+			"way",
+			"nope",
+			"head",
+			"shake",
+			"duck"
+		],
+		"tagString": "no way nope head shake duck",
+		"filename": "nope-duck.gif",
+		"sentimentScore": -1
+	},
+	{
+		"tags": [
+			"broken",
+			"malfunction",
+			"tricky"
+		],
+		"tagString": "broken malfunction tricky",
+		"filename": "not-working.gif",
+		"sentimentScore": -1
+	},
+	{
+		"tags": [
+			"nyan",
+			"cat",
+			"happy",
+			"celebrate"
+		],
+		"tagString": "nyan cat happy celebrate",
+		"filename": "nyan-cat-animation-art.gif",
+		"sentimentScore": 6
+	},
+	{
+		"tags": [
+			"rage",
+			"quit",
+			"angry",
+			"mic",
+			"drop"
+		],
+		"tagString": "rage quit angry mic drop",
+		"filename": "obama-kicks-door.gif",
+		"sentimentScore": -6
+	},
+	{
+		"tags": [
+			"calm",
+			"quiet",
+			"ocean",
+			"alone"
+		],
+		"tagString": "calm quiet ocean alone",
+		"filename": "ocean-cinemagraph.gif",
+		"sentimentScore": 0
+	},
+	{
+		"tags": [
+			"epic",
+			"happy",
+			"interested",
+			"aha",
+			"omg",
+			"oh",
+			"ohh",
+			"ohhh"
+		],
+		"tagString": "epic happy interested aha omg oh ohh ohhh",
+		"filename": "ohhh-minion.gif",
+		"sentimentScore": 5
+	},
+	{
+		"tags": [
+			"omg",
+			"disbelief",
+			"confused",
+			"wat"
+		],
+		"tagString": "omg disbelief confused wat",
+		"filename": "omg.gif",
+		"sentimentScore": -2
+	},
+	{
+		"tags": [
+			"eyes",
+			"peek",
+			"surprised",
+			"scared"
+		],
+		"tagString": "eyes peek surprised scared",
+		"filename": "open-scream.gif",
+		"sentimentScore": -2
+	},
+	{
+		"tags": [
+			"batman",
+			"rush",
+			"run",
+			"hurry"
+		],
+		"tagString": "batman rush run hurry",
+		"filename": "ordinary-batman-animated-gif-art.gif",
+		"sentimentScore": 0
+	},
+	{
+		"tags": [
+			"fail",
+			"ouch",
+			"wipeout",
+			"oof",
+			"whoops",
+			"team"
+		],
+		"tagString": "fail ouch wipeout oof whoops team",
+		"filename": "party-wipeout.gif",
+		"sentimentScore": -2
+	},
+	{
+		"tags": [
+			"slow",
+			"golf",
+			"clap",
+			"picard",
+			"impressed",
+			"sarcastic",
+			"fantastic",
+			"amazing"
+		],
+		"tagString": "slow golf clap picard impressed sarcastic fantastic amazing",
+		"filename": "picard-slow-clap.gif",
+		"sentimentScore": 9
+	},
+	{
+		"tags": [
+			"run",
+			"away",
+			"escape",
+			"scared",
+			"terrified"
+		],
+		"tagString": "run away escape scared terrified",
+		"filename": "pirates-runs-away.gif",
+		"sentimentScore": -6
+	},
+	{
+		"tags": [
+			"epic",
+			"high",
+			"five",
+			"celebrate",
+			"winning"
+		],
+		"tagString": "epic high five celebrate winning",
+		"filename": "pokemon-high-five-2.gif",
+		"sentimentScore": 7
+	},
+	{
+		"tags": [
+			"high",
+			"five"
+		],
+		"tagString": "high five",
+		"filename": "police-high-five.gif",
+		"sentimentScore": 0
+	},
+	{
+		"tags": [
+			"popcorn",
+			"watch",
+			"entertained",
+			"fixated"
+		],
+		"tagString": "popcorn watch entertained fixated",
+		"filename": "popcorn-stuffing.gif",
+		"sentimentScore": 0
+	},
+	{
+		"tags": [
+			"pumpkin",
+			"dog",
+			"wat",
+			"spin",
+			"surprise"
+		],
+		"tagString": "pumpkin dog wat spin surprise",
+		"filename": "pumpkin-dog-wat.gif",
+		"sentimentScore": 0
+	},
+	{
+		"tags": [
+			"sad",
+			"rain",
+			"raining",
+			"frown",
+			"pathetic"
+		],
+		"tagString": "sad rain raining frown pathetic",
+		"filename": "raining.gif",
+		"sentimentScore": -4
+	},
+	{
+		"tags": [
+			"no",
+			"nope",
+			"really",
+			"laughing"
+		],
+		"tagString": "no nope really laughing",
+		"filename": "really-hahaha-no.gif",
+		"sentimentScore": 0
+	},
+	{
+		"tags": [
+			"really",
+			"confused",
+			"sarcastic",
+			"disbelief",
+			"whatever"
+		],
+		"tagString": "really confused sarcastic disbelief whatever",
+		"filename": "really.gif",
+		"sentimentScore": -4
+	},
+	{
+		"tags": [
+			"eyes",
+			"stare",
+			"intense"
+		],
+		"tagString": "eyes stare intense",
+		"filename": "red-hat-eyes.gif",
+		"sentimentScore": 1
+	},
+	{
+		"tags": [
+			"smile",
+			"realization",
+			"aha",
+			"discovery",
+			"get",
+			"it",
+			"see",
+			"what",
+			"you",
+			"did",
+			"there"
+		],
+		"tagString": "smile realization aha discovery get it see what you did there",
+		"filename": "riker-smile.gif",
+		"sentimentScore": 2
+	},
+	{
+		"tags": [
+			"hungry",
+			"fail",
+			"food",
+			"robot"
+		],
+		"tagString": "hungry fail food robot",
+		"filename": "robot-face-smash.gif",
+		"sentimentScore": -2
+	},
+	{
+		"tags": [
+			"scared",
+			"terrified",
+			"run",
+			"away",
+			"escape"
+		],
+		"tagString": "scared terrified run away escape",
+		"filename": "scared-cat.gif",
+		"sentimentScore": -6
+	},
+	{
+		"tags": [
+			"scared",
+			"run",
+			"away",
+			"terrified",
+			"escape",
+			"scatter"
+		],
+		"tagString": "scared run away terrified escape scatter",
+		"filename": "scared-cats.gif",
+		"sentimentScore": -6
+	},
+	{
+		"tags": [
+			"crying",
+			"sad",
+			"head",
+			"shake"
+		],
+		"tagString": "crying sad head shake",
+		"filename": "seth-rogen-crying.gif",
+		"sentimentScore": -4
+	},
+	{
+		"tags": [
+			"whatever",
+			"dismissive"
+		],
+		"tagString": "whatever dismissive",
+		"filename": "sheen-hand-wave.gif",
+		"sentimentScore": 0
+	},
+	{
+		"tags": [
+			"derp",
+			"wat",
+			"silly",
+			"squeeze"
+		],
+		"tagString": "derp wat silly squeeze",
+		"filename": "silly-face.gif",
+		"sentimentScore": -1
+	},
+	{
+		"tags": [
+			"bored",
+			"stare",
+			"disappointed"
+		],
+		"tagString": "bored stare disappointed",
+		"filename": "simon-cowel-glazed-look.gif",
+		"sentimentScore": -4
+	},
+	{
+		"tags": [
+			"epic",
+			"talent",
+			"neat",
+			"trick",
+			"nailed",
+			"it"
+		],
+		"tagString": "epic talent neat trick nailed it",
+		"filename": "skate-rope.gif",
+		"sentimentScore": 0
+	},
+	{
+		"tags": [
+			"stuck",
+			"trapped"
+		],
+		"tagString": "stuck trapped",
+		"filename": "skeletor-help.gif",
+		"sentimentScore": -4
+	},
+	{
+		"tags": [
+			"cat",
+			"sleep",
+			"asleep",
+			"sleepy",
+			"peaceful",
+			"tired"
+		],
+		"tagString": "cat sleep asleep sleepy peaceful tired",
+		"filename": "sleeping-cat.gif",
+		"sentimentScore": 0
+	},
+	{
+		"tags": [
+			"whatever",
+			"dismissive",
+			"disappointed"
+		],
+		"tagString": "whatever dismissive disappointed",
+		"filename": "spader-hand-wave.gif",
+		"sentimentScore": -2
+	},
+	{
+		"tags": [
+			"epic",
+			"tough",
+			"strong",
+			"nailed",
+			"it",
+			"neat",
+			"trick"
+		],
+		"tagString": "epic tough strong nailed it neat trick",
+		"filename": "split.gif",
+		"sentimentScore": 2
+	},
+	{
+		"tags": [
+			"dance",
+			"dancing",
+			"creepy",
+			"team",
+			"wat"
+		],
+		"tagString": "dance dancing creepy team wat",
+		"filename": "sprockets-dancing.gif",
+		"sentimentScore": 0
+	},
+	{
+		"tags": [
+			"distracted",
+			"squirrel"
+		],
+		"tagString": "distracted squirrel",
+		"filename": "squirrel-up-dog-gif_large.gif",
+		"sentimentScore": -2
+	},
+	{
+		"tags": [
+			"creepy",
+			"robot",
+			"eyes",
+			"stare"
+		],
+		"tagString": "creepy robot eyes stare",
+		"filename": "stanley-kubrick-cinemagraph-gifs.gif",
+		"sentimentScore": 0
+	},
+	{
+		"tags": [
+			"suspicious",
+			"busy"
+		],
+		"tagString": "suspicious busy",
+		"filename": "stevie-mcquinn.gif",
+		"sentimentScore": -2
+	},
+	{
+		"tags": [
+			"mail",
+			"busy",
+			"buried"
+		],
+		"tagString": "mail busy buried",
+		"filename": "stoker-film-cinemagraphs.gif",
+		"sentimentScore": 0
+	},
+	{
+		"tags": [
+			"star",
+			"wars",
+			"jedi",
+			"stormtrooper",
+			"attack",
+			"lightsaber"
+		],
+		"tagString": "star wars jedi stormtrooper attack lightsaber",
+		"filename": "storm-trooper-assault.gif",
+		"sentimentScore": -1
+	},
+	{
+		"tags": [
+			"star",
+			"wars",
+			"stormtrooper",
+			"wat",
+			"dancing"
+		],
+		"tagString": "star wars stormtrooper wat dancing",
+		"filename": "stormtroopin.gif",
+		"sentimentScore": 0
+	},
+	{
+		"tags": [
+			"hurry",
+			"late",
+			"run",
+			"rush"
+		],
+		"tagString": "hurry late run rush",
+		"filename": "subway-hurry.gif",
+		"sentimentScore": 0
+	},
+	{
+		"tags": [
+			"epic",
+			"disbelief",
+			"sunglasses",
+			"surprised",
+			"amazed"
+		],
+		"tagString": "epic disbelief sunglasses surprised amazed",
+		"filename": "sunglasses-off-loop.gif",
+		"sentimentScore": 2
+	},
+	{
+		"tags": [
+			"anger",
+			"rage",
+			"table",
+			"flip"
+		],
+		"tagString": "anger rage table flip",
+		"filename": "tableflip.gif",
+		"sentimentScore": -5
+	},
+	{
+		"tags": [
+			"dance",
+			"parade",
+			"celebrate",
+			"intense"
+		],
+		"tagString": "dance parade celebrate intense",
+		"filename": "techno-viking.gif",
+		"sentimentScore": 4
+	},
+	{
+		"tags": [
+			"thumbs",
+			"up",
+			"yeah",
+			"yes",
+			"1"
+		],
+		"tagString": "thumbs up yeah yes 1",
+		"filename": "terminator.gif",
+		"sentimentScore": 2
+	},
+	{
+		"tags": [
+			"thanks",
+			"thank",
+			"you"
+		],
+		"tagString": "thanks thank you",
+		"filename": "thank-you-hat.gif",
+		"sentimentScore": 4
+	},
+	{
+		"tags": [
+			"thanks",
+			"thank",
+			"you"
+		],
+		"tagString": "thanks thank you",
+		"filename": "thank-you-mask.gif",
+		"sentimentScore": 4
+	},
+	{
+		"tags": [
+			"thanks",
+			"thank",
+			"you",
+			"intense",
+			"about",
+			"time"
+		],
+		"tagString": "thanks thank you intense about time",
+		"filename": "thank-you-michael.gif",
+		"sentimentScore": 5
+	},
+	{
+		"tags": [
+			"thank",
+			"you",
+			"thanks",
+			"spongebob"
+		],
+		"tagString": "thank you thanks spongebob",
+		"filename": "thank-you-spongebob.gif",
+		"sentimentScore": 4
+	},
+	{
+		"tags": [
+			"thanks",
+			"thank",
+			"you",
+			"crab"
+		],
+		"tagString": "thanks thank you crab",
+		"filename": "thanks-crab.gif",
+		"sentimentScore": 4
+	},
+	{
+		"tags": [
+			"yeah",
+			"yes",
+			"thumbs",
+			"up",
+			"internet",
+			"1"
+		],
+		"tagString": "yeah yes thumbs up internet 1",
+		"filename": "thumbs-up-80s-kid.gif",
+		"sentimentScore": 2
+	},
+	{
+		"tags": [
+			"yeah",
+			"yes",
+			"thumbs",
+			"up",
+			"1"
+		],
+		"tagString": "yeah yes thumbs up 1",
+		"filename": "thumbs-up-daft-punk.gif",
+		"sentimentScore": 2
+	},
+	{
+		"tags": [
+			"thumbs",
+			"up",
+			"yes",
+			"yup"
+		],
+		"tagString": "thumbs up yes yup",
+		"filename": "thumbs-up-green.gif",
+		"sentimentScore": 1
+	},
+	{
+		"tags": [
+			"thumbs",
+			"up",
+			"yeah",
+			"yes",
+			"chewing",
+			"1"
+		],
+		"tagString": "thumbs up yeah yes chewing 1",
+		"filename": "thumbs-up.gif",
+		"sentimentScore": 2
+	},
+	{
+		"tags": [
+			"stuck",
+			"out",
+			"tongue",
+			"tease",
+			"taunt"
+		],
+		"tagString": "stuck out tongue tease taunt",
+		"filename": "tongue-out.gif",
+		"sentimentScore": -2
+	},
+	{
+		"tags": [
+			"no",
+			"nope",
+			"heck",
+			"noo",
+			"nooo",
+			"noooo",
+			"nooooo"
+		],
+		"tagString": "no nope heck noo nooo noooo nooooo",
+		"filename": "tracey-jordan-nope.gif",
+		"sentimentScore": -1
+	},
+	{
+		"tags": [
+			"fail",
+			"crash",
+			"wat"
+		],
+		"tagString": "fail crash wat",
+		"filename": "truck-pool.gif",
+		"sentimentScore": -4
+	},
+	{
+		"tags": [
+			"scared",
+			"run",
+			"escape",
+			"turn",
+			"around",
+			"reverse"
+		],
+		"tagString": "scared run escape turn around reverse",
+		"filename": "tsunami.gif",
+		"sentimentScore": -3
+	},
+	{
+		"tags": [
+			"type",
+			"typing",
+			"hacking",
+			"fast",
+			"skill",
+			"talent",
+			"nailed",
+			"it"
+		],
+		"tagString": "type typing hacking fast skill talent nailed it",
+		"filename": "typity-type.gif",
+		"sentimentScore": 0
+	},
+	{
+		"tags": [
+			"fail",
+			"whoops",
+			"crash",
+			"destruction"
+		],
+		"tagString": "fail whoops crash destruction",
+		"filename": "warehouse-forklift-crash.gif",
+		"sentimentScore": -7
+	},
+	{
+		"tags": [
+			"no",
+			"nope",
+			"denied"
+		],
+		"tagString": "no nope denied",
+		"filename": "wave-denied-nope.gif",
+		"sentimentScore": -3
+	},
+	{
+		"tags": [
+			"yes",
+			"yeah",
+			"thumbs",
+			"up",
+			"excited"
+		],
+		"tagString": "yes yeah thumbs up excited",
+		"filename": "wayne-thumbs-up.gif",
+		"sentimentScore": 5
+	},
+	{
+		"tags": [
+			"no",
+			"nope",
+			"denied",
+			"oof",
+			"ouch",
+			"tease",
+			"taunt"
+		],
+		"tagString": "no nope denied oof ouch tease taunt",
+		"filename": "whack.gif",
+		"sentimentScore": -3
+	},
+	{
+		"tags": [
+			"no",
+			"nope"
+		],
+		"tagString": "no nope",
+		"filename": "whatno.gif",
+		"sentimentScore": -1
+	},
+	{
+		"tags": [
+			"fail",
+			"crash",
+			"whoops",
+			"ouch",
+			"oof"
+		],
+		"tagString": "fail crash whoops ouch oof",
+		"filename": "wheelbarrel-dump.gif",
+		"sentimentScore": -4
+	},
+	{
+		"tags": [
+			"drink",
+			"pour",
+			"cheers",
+			"celebrate"
+		],
+		"tagString": "drink pour cheers celebrate",
+		"filename": "whiskey-pour.gif",
+		"sentimentScore": 5
+	},
+	{
+		"tags": [
+			"noo",
+			"nooo",
+			"noooo",
+			"why",
+			"whyy",
+			"whyyy",
+			"whyyyy",
+			"disappointed"
+		],
+		"tagString": "noo nooo noooo why whyy whyyy whyyyy disappointed",
+		"filename": "whyyyyy.gif",
+		"sentimentScore": -2
+	},
+	{
+		"tags": [
+			"team",
+			"dance",
+			"celebrate",
+			"celebration"
+		],
+		"tagString": "team dance celebrate celebration",
+		"filename": "world-order.gif",
+		"sentimentScore": 3
+	},
+	{
+		"tags": [
+			"dance",
+			"celebrate",
+			"happy"
+		],
+		"tagString": "dance celebrate happy",
+		"filename": "you-never-can-tell-dance.gif",
+		"sentimentScore": 6
+	},
+	{
+		"tags": [
+			"happy",
+			"shucks",
+			"thanks",
+			"thank",
+			"you"
+		],
+		"tagString": "happy shucks thanks thank you",
+		"filename": "zoolander.gif",
+		"sentimentScore": 7
+	}
+]
