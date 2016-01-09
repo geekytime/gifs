@@ -2277,6 +2277,54 @@
 	},
 	{
 		"tags": [
+			"shrug",
+			"unsure",
+			"uncertain",
+			"whatever",
+			"dunno"
+		],
+		"tagString": "shrug unsure uncertain whatever dunno",
+		"filename": "shrug-colin.gif",
+		"sentimentScore": -2
+	},
+	{
+		"tags": [
+			"shrug",
+			"unsure",
+			"uncertain",
+			"whatever",
+			"dunno"
+		],
+		"tagString": "shrug unsure uncertain whatever dunno",
+		"filename": "shrug-elmo.gif",
+		"sentimentScore": -2
+	},
+	{
+		"tags": [
+			"shrug",
+			"unsure",
+			"uncertain",
+			"whatever",
+			"dunno"
+		],
+		"tagString": "shrug unsure uncertain whatever dunno",
+		"filename": "shrug-garfield.gif",
+		"sentimentScore": -2
+	},
+	{
+		"tags": [
+			"shrug",
+			"unsure",
+			"uncertain",
+			"whatever",
+			"dunno"
+		],
+		"tagString": "shrug unsure uncertain whatever dunno",
+		"filename": "shrug-rabbit.gif",
+		"sentimentScore": -2
+	},
+	{
+		"tags": [
 			"derp",
 			"wat",
 			"silly",
