@@ -4,7 +4,7 @@
   "description": "A curated gif collection for use as animated emoji in chat.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "node ensure-metadata.js && node build-index.js"
   },
   "repository": {
     "type": "git",
@@ -15,12 +15,5 @@
   "bugs": {
     "url": "https://github.com/geekytime/gifs/issues"
   },
-  "homepage": "https://github.com/geekytime/gifs#readme",
-  "dependencies": {
-    "did-you-mean": "0.0.1",
-    "fuzzyset.js": "0.0.1",
-    "leven": "~2.0.0",
-    "lodash": "~3.10.1",
-    "random-weighted-choice": "~0.1.3"
-  }
+  "homepage": "https://github.com/geekytime/gifs#readme"
 }
