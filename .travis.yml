@@ -8,8 +8,8 @@ notifications:
 node_js:
   - '4'
 branches:
-  except:
-    - gh-pages
+  only:
+    - master
 before_install:
   - npm i -g npm@latest
 before_script:
