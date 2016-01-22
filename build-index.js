@@ -14,7 +14,8 @@ var addEntry = function(metadata){
     tags: metadata.words,
     tagString: tagString,
     filename: metadata.filename,
-    sentimentScore: sentimentScore
+    sentimentScore: sentimentScore,
+    source: metadata.source
   });
 };
 
