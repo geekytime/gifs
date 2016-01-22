@@ -1,0 +1,18 @@
+sudo: false
+language: node_js
+cache:
+  directories:
+    - node_modules
+notifications:
+  email: false
+node_js:
+  - '4'
+before_install:
+  - npm i -g npm@latest
+before_script:
+  - npm prune
+script: bash ./deploy.sh
+env:
+  global:
+  - GH_REF: github.com/geekytime/gifs.git
+  - secure: "Z82Ke7euyYjUnTzGr9HDvKV5rb+w3pscN+1LWvQrdip5vTxQAzcTDjtzqlWGvkvF38XjYUPLbWeKWiw5rlewKvHGAaZAwDTo8Bv+xqor47FWAoaWB5pzPyol0R5s2nr90gREcvmixckRb9WyBgWtrvzT2ud86NgHTHK+QcbyXsMEG6152YEO06RFGdz949H4RCtcYbNUXQpHTdlgCFAvC6Ban+lm6xccUlIzAn9GJrzCO7R1p32eP2Vd0VHSVlnu1Ei5dtKxg70Ru0Wen5m05GHDFl9++4Ord2cqP4MF/bV8yyteWwAZcbT7wAw3oV1CA2utTtntgBKdT1FfMzur0atkGPQ7ADPXvJFwj9iFxDKox4yj+ZhWXfgRbpevhGrdn4HfL0lMdnRy+VL6suDsmUhELrKwhvnBBIR+bwlA6SudHCBwflO6eosKTR4FResKGB1pv+uMwSMdJG/yV9vAvuOTmiywqyLC+gbQ8N4RpnAlSy01fDgTBhOUUaJhJxo8CbqlyH/u4RoiH7N1jzH9eXVHNGO+f54XBSoviJXBbApLHfJKwAgphAXAsgFLPD5XQy8KkSTF7+ks5rZd+hvhs6PIiz5vO5llfw+FmFfNrV0KYReW3xw34PaZdU35iiSOftzqqD+L3H513O5GnfXv1/refG/mlZwILzlWY1zb95Y="  
