@@ -14,7 +14,8 @@ before_install:
   - npm i -g npm@latest
 before_script:
   - npm prune
-script: bash ./deploy.sh
+script: node build-index.js
+after_script: bash ./deploy.sh
 env:
   global:
   - GH_REF: github.com/geekytime/gifs.git

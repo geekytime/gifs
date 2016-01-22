@@ -5,15 +5,11 @@ set -e # exit with nonzero exit code if anything fails
 rm -rf gh-pages || exit 0;
 mkdir gh-pages;
 
-# run the build
-node build-index.js
-ls
-
 # go to the output directory and create a *new* Git repo
 cd gh-pages
 git init
 
-# Move the built artifacts into gh-pages
+# Move the newly built artifacts into gh-pages
 cp ../index.json index.json
 cp -r ../gifs gifs
 
@@ -21,10 +17,14 @@ cp -r ../gifs gifs
 git config user.name "Geekytime via Travis CI"
 git config user.email "chris@jaynes.me"
 
+echo Git configured.
+
 # The first and only commit to this new Git repo contains all the
 # files present with the commit message "Deploy to GitHub Pages".
 git add .
 git commit -m "Deploy to GitHub Pages"
+
+echo Git commited.
 
 # Force push from the current repo's master branch to the remote
 # repo's gh-pages branch. (All previous history on the gh-pages branch
