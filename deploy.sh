@@ -7,14 +7,15 @@ mkdir gh-pages;
 
 # run the build
 node build-index.js
+ls
 
 # go to the output directory and create a *new* Git repo
 cd gh-pages
 git init
 
 # Move the built artifacts into gh-pages
-cp index.json gh-pages/index.json
-cp gifs gh-pages/gifs
+cp ../index.json index.json
+cp -r ../gifs gifs
 
 # inside this git repo we'll pretend to be a new user
 git config user.name "Geekytime via Travis CI"
